@@ -1,2 +1,2 @@
 # survey-on-mathematical-background
-University Assignment
+A university task assigned on mathematical background and asymptotic notation that was completed successfully.
